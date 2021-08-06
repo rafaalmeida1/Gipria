@@ -1,4 +1,5 @@
-### Hi  👋
+<h2>Hi <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<img align="right" alt="GIF" src="https://becode.com.br/wp-content/uploads/2016/10/Por-que-usar-JavaScript.gif" width="400"/>
 
   <div>
     <a href="https://github.com/Gipria">

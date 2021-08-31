@@ -3,8 +3,8 @@
 
   <div>
     <a href="https://github.com/Gipria">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gipria&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gipria&layout=compact&langs_count=7&theme=synthwave"/>                           
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gipria&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gipria&layout=compact&langs_count=7&theme=cobalt"/>                           
   </div>
   <hr>
   
@@ -13,7 +13,7 @@
    &nbsp;
   <a href="https://www.linkedin.com/in/giovana-a-a1795a117/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-  <a align="center" href="https://github-readme-stats.vercel.app/api/wakatime?username=Gipria"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Gipria&layout=compact&text_color=daf7dc&bg_color=321136" />
+  <a align="center" href="https://github-readme-stats.vercel.app/api/wakatime?username=Gipria"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Gipria&layout=compact&text_color=576258&bg_color=172226" />
 </a>
 
 
